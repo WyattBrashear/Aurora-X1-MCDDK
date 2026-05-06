@@ -6,3 +6,9 @@ The response to this was that i was not mature enough for a phone. This spark ga
 I ended up fufilling that idea and ended up creating the Aurora X1 Mobile Cellular Device Developer Kit
 ## What is in this repository?
 This repo contains the following
+1. CAD Designs
+2. Parts Lists
+3. Documentation on development
+
+## Questions?
+If you have any, shoot me an email at: admin@wyattb.dev
