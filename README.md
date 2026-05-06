@@ -10,7 +10,7 @@ This repo contains the following
 2. Parts Lists (X-BOM.CSV)
 3. Documentation on development
 
-## Computer Power
+## Compute Power
 Personally i used an RPI-5 with 16GB of RAM. That probably is a bit excessive for a normal use case.
 Display components were from adafruit and are listed in the parts list
 ## Questions?
