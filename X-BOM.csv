@@ -1,11 +1,9 @@
 Section,Part Name,Part For,Part Price,Part ID,Part Link To Buy,Part Amount,Status 
 Video,"TFP401 - Video Decoder Video Evaluation Board 
-",Driving the Display. Takes HDMI and MicroUSB in and outputs the signals over 40 pin TFT to the touchscreen,$29.95,#X1-001,	•		•	Click Me!,1,Ordered 
-Video,"7.0"" 40-pin TFT Display - 800x480 with Touchscreen",Primary display for the X-1. Outputs touchscreen input VIA MicroUSB,$34.95,#X1-002,"Click Me!
-",1,Ordered 
-Video,HDMI STUB,Takes the input from the MicroHDMI to HDMI STUB,$6.49,#X1-003,"Click Me!
-",1,Ordered 
-Video,MicroHDMI STUB.,Takes Input from the RPI5 (Main Computational Circuitry) and converts it to HDMI,$6.79,#X1-004,"	Click Me!
+",Driving the Display. Takes HDMI and MicroUSB in and outputs the signals over 40 pin TFT to the touchscreen,$29.95,#X1-001,	•		•	https://www.adafruit.com/product/2354,1,Ordered 
+Video,"7.0"" 40-pin TFT Display - 800x480 with Touchscreen",Primary display for the X-1. Outputs touchscreen input VIA MicroUSB,$34.95,#X1-002,https://www.digikey.com/en/products/detail/adafruit-industries-llc/2219/5761220,1,Ordered 
+Video,HDMI STUB,Takes the input from the MicroHDMI to HDMI STUB,$6.49,#X1-003,https://www.amazon.com/dp/B0BQDX9GZQ?niid=nl_cl_lst_a_1_0&ref_=nl_cl_lst_a_1_0&nrid=5Z7S1J5SF5X9WSP4F99X&th=1,1,Ordered 
+Video,MicroHDMI STUB.,Takes Input from the RPI5 (Main Computational Circuitry) and converts it to HDMI,$6.79,#X1-004,"	https://www.amazon.com/gp/product/B0CJYCW36T/ref=ewc_pr_img_1?smid=A2I8OB8UELUM5B&psc=1
 ",1,Ordered 
 Input,MicroUSB Cable,Gives power to the display driver board. And sends touchscreen inputs to the RPI5.,Already Owned,#X1-005,,1,
 Input,4G LTE Module,Connects the X1 to the internet via LTE. Includes antenna and $25 SIM credit.,"$135
