@@ -7,7 +7,7 @@ I ended up fufilling that idea and ended up creating the Aurora X1 Mobile Cellul
 ## What is in this repository?
 This repo contains the following
 1. CAD Designs
-2. Parts Lists
+2. Parts Lists (X-BOM.CSV)
 3. Documentation on development
 
 ## Questions?
